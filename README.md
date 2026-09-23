@@ -7,3 +7,7 @@ My first Git repository.
 - Git basics
 - GitHub
 - Version control
+
+## Login tests
+
+This branch is used for login test changes.
